@@ -1,2 +1,3 @@
 # FDP2026CLASE
-Ejercicios de clase 
+Ejercicios de clase
+# aprendiendo a usar github
